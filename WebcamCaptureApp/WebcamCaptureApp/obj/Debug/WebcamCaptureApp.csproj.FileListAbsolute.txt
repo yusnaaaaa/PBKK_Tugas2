@@ -1,0 +1,17 @@
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.csproj.AssemblyReference.cache
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.Form1.resources
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.Properties.Resources.resources
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.csproj.GenerateResource.cache
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.csproj.CoreCompileInputs.cache
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\WebcamCaptureApp.exe.config
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\WebcamCaptureApp.exe
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\WebcamCaptureApp.pdb
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.dll
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.Video.DirectShow.dll
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.Video.dll
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.xml
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.Video.xml
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.Video.DirectShow.xml
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.csproj.CopyComplete
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.exe
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 2\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.pdb
